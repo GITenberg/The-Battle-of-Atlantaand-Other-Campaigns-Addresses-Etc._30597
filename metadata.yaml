@@ -1,0 +1,42 @@
+_repo: The-Battle-of-Atlantaand-Other-Campaigns-Addresses-Etc._30597
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dodge, Grenville Mellen
+    alias: Dodge, G. M. (Grenville Mellen)
+    birthdate: 1831
+    deathdate: 1916
+    gutenberg_agent_id: '34703'
+    url: http://www.gutenberg.org/2009/agents/34703
+    wikipedia: http://en.wikipedia.org/wiki/Grenville_M._Dodge
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2009-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcsh 'Atlanta Campaign, 1864'
+- !lcsh 'Dodge, Grenville Mellen, 1831-1916'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+tableOfContents: The southwestern campaign -- Letter of General Dodge to his father
+  [on the battle of Pea Ridge] -- The battle of Atlanta -- Letter to General Raum
+  [correcting some statements in his description of the battle of Atlanta] -- The
+  Indian campaigns of 1864-65 -- The Indian campaigns of 1865-66 -- Campaign up the
+  Tennessee River valley -- The Army of the Tennessee -- The campaign in the West
+  -- A talk to old comrades -- General Grant -- Use of block-houses during the Civil
+  War -- An incident of the war [execution of the Confederate spy, Samuel Davis] --
+  Gen. G.M. Dodge on the water cure -- Misplaced sympathy.
+title: 'The Battle of Atlanta
+
+  and Other Campaigns, Addresses, Etc.'
+url: http://www.gutenberg.org/ebooks/30597
